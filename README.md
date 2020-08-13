@@ -2,8 +2,8 @@
 
 ## Intention
 
-Remove 'oggy', and let others be happy.
+Remove all elements that starts with 'oggy' in a List of strings.
 
 ## Method
 
-The code removes any sting which stars with 'oggy'.
+The code can be modified to remove any element.
