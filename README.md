@@ -6,4 +6,4 @@ Remove all elements that starts with 'oggy'.
 
 ## Method
 
-The code can be modified to remove any element in a list of strings.
+The code can remove any specified element from a list of strings.
