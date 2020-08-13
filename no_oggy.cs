@@ -22,7 +22,7 @@ class NoOggyChecker
                  names.Remove(names[i_names]);
                  i_names--;
            }
-    }
+     }
   }
   static bool OggyIsRemoved(List<string> names)
   {
