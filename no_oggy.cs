@@ -5,7 +5,7 @@ class NoOggyChecker
 {
   static void RemoveOggy(List<string> names)
   {
-    //Initial method in comment
+    //Initial code in comment
    /* foreach (var name in names)
     {
         if(name.StartsWith("oggy")) {
@@ -23,7 +23,6 @@ class NoOggyChecker
                  i_names--;
            }
     }
-    
   }
   static bool OggyIsRemoved(List<string> names)
   {
