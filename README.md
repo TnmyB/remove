@@ -2,7 +2,7 @@
 
 ## Intention
 
-Remove 'oggy', and let others be happy. 
+Remove 'oggy', and let others be happy.
 
 ## Method
 
