@@ -1,7 +1,6 @@
 # Collections Exercise
 
 ## Intention
-
 Remove 'oggy', and let others be happy. 
 
 ## Method
